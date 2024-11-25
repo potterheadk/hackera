@@ -1,6 +1,7 @@
 ---
-#### Note : The docker version is not configured properly yet so without changing it yourself dont use it 
-# it will not work Online Debate App
+#### Note : The docker version is not configured properly yet so without changing it yourself dont use it, it will not work 
+
+# Online Debate App
 
 
 ### Always check for the updated branch or use the default branch
